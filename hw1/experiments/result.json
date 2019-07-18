@@ -1,0 +1,12 @@
+{"name": "Hopper-v2", "algorithm": "behavioral_cloning", "expert_mean_return": 3777.463427640983, "expert_std_return": 2.8081556711498785, "exp_mean": 1931.5283455115211, "exp_std": 410.9872933058373}
+{"name": "Hopper-v2", "algorithm": "dagger", "expert_mean_return": 3777.463427640983, "expert_std_return": 2.8081556711498785, "exp_mean": 3778.730265485142, "exp_std": 2.5281748434127818}
+{"name": "Ant-v2", "algorithm": "behavioral_cloning", "expert_mean_return": 4678.383501132747, "expert_std_return": 418.60364295761764, "exp_mean": 4526.864627757004, "exp_std": 156.6561550967188}
+{"name": "Ant-v2", "algorithm": "dagger", "expert_mean_return": 4678.383501132747, "expert_std_return": 418.60364295761764, "exp_mean": 4810.8846730975665, "exp_std": 146.47789498154904}
+{"name": "HalfCheetah-v2", "algorithm": "behavioral_cloning", "expert_mean_return": 4141.056098928106, "expert_std_return": 67.00115254050081, "exp_mean": 4059.38879768845, "exp_std": 106.75146130433687}
+{"name": "HalfCheetah-v2", "algorithm": "dagger", "expert_mean_return": 4141.056098928106, "expert_std_return": 67.00115254050081, "exp_mean": 4192.6635739842295, "exp_std": 90.059335251438}
+{"name": "Humanoid-v2", "algorithm": "behavioral_cloning", "expert_mean_return": 10023.570715713191, "expert_std_return": 2259.7242161738627, "exp_mean": 966.0295534815407, "exp_std": 353.55635629052784}
+{"name": "Humanoid-v2", "algorithm": "dagger", "expert_mean_return": 10023.570715713191, "expert_std_return": 2259.7242161738627, "exp_mean": 10564.705933963296, "exp_std": 41.69196150472038}
+{"name": "Reacher-v2", "algorithm": "behavioral_cloning", "expert_mean_return": -3.4690993108641415, "expert_std_return": 1.6091850736025088, "exp_mean": -7.551692092848195, "exp_std": 2.322444554228524}
+{"name": "Reacher-v2", "algorithm": "dagger", "expert_mean_return": -3.4690993108641415, "expert_std_return": 1.6091850736025088, "exp_mean": -3.962358674671946, "exp_std": 1.4188475669077976}
+{"name": "Walker2d-v2", "algorithm": "behavioral_cloning", "expert_mean_return": 5497.490362174713, "expert_std_return": 85.13094066125547, "exp_mean": 1489.0950397585507, "exp_std": 521.1226484575808}
+{"name": "Walker2d-v2", "algorithm": "dagger", "expert_mean_return": 5497.490362174713, "expert_std_return": 85.13094066125547, "exp_mean": 5549.866115038048, "exp_std": 27.9492165738084}
