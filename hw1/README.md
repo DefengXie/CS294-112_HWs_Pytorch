@@ -10,7 +10,7 @@ Dependencies:
 
 To generate the data for training and testing,run<br>
 ```
-bash demo.bash
+bash run_data.bash
 ```
 To run all experiments , run
 
