@@ -1,4 +1,4 @@
-CS294-112: Deep Reinforcement Learning Homework Implement With Pytorch
+# CS294-112 HW 2: Policy Gradient
 
 Dependencies:
  * Python **3.5**
@@ -8,3 +8,6 @@ Dependencies:
  * OpenAI Gym version **0.10.5**
  * seaborn
  * Box2D==**2.3.2**
+
+result:
+<p float="center"><img src="./CartPole-v0_without_baseline.png" width="350"/></p>
